@@ -27,7 +27,7 @@ April 14, Monday
 
 - **9:00am - 12:00pm** Morning Session
   - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Break
+  - 10:15am-10:45am Tea Break
   - 10:45am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
@@ -45,7 +45,7 @@ April 15, Tuesday
 
 - **9:00am - 12:00pm** Morning Session
   - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Break
+  - 10:15am-10:45am Tea Break
   - 10:45am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
@@ -63,7 +63,7 @@ April 16, Wednesday
 
 - **9:00am - 12:00pm** Morning Session
   - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Break
+  - 10:15am-10:45am Tea Break
   - 10:45am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
@@ -82,7 +82,7 @@ April 17, Thursday
 
 - **9:00am - 12:00pm** Morning Session
   - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Break
+  - 10:15am-10:45am Tea Break
   - 10:45am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
@@ -101,7 +101,7 @@ April 18, Friday
 
 - **9:00am - 12:00pm** Morning Session
   - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Break
+  - 10:15am-10:45am Tea Break
   - 10:45am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
