@@ -50,11 +50,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	url    = "schedule"
 	weight = 40
 
-[[menu.main]]
-	name   = "Lightning Talks"
-	url    = "lightningtalks"
-	weight = 50
-
 
 [[menu.main]]
 	name   = "Travel"
@@ -66,8 +61,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	name   = "Contact"
 	url    = "contact"
 	weight = 150
-
-
 
 
 [blackfriday]
