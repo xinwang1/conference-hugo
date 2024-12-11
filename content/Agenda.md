@@ -3,18 +3,9 @@ title: Schedule
 weight: 40
 ---
 
-- Outdoor activities will be in the morning, sessions in the afternoon (when it often rains)
-
-**Pre-conference**: If you arrive early, post something on Slack. If I or others
-are around and available, we might be able to come out for meals or other
-activities.
-
-**Post-conference**: Often people stay the day after the conference or for the
-weekend; informal gatherings have been known to happen.
-
 ***********************************
 
-Sunday 6:00pm
+April 13, Sunday
 -------------
 
 Welcome Potluck Barbeque at Bruce's House (107 WhiteRock). Bring something to
@@ -29,7 +20,7 @@ have colorful lights on, as well.
 
 ***********************************
 
-Monday
+April 14, Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
@@ -55,7 +46,7 @@ Session
 
 ***********************************
 
-Tuesday
+April 15, Tuesday
 -------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
@@ -82,23 +73,13 @@ Tuesday
 
 ***********************************
 
-Wednesday: Hackathon day
+April 16, Wednesday
 ------------------------
 
-**Hackathon projects usually take place in rental houses, at Bruce's house, or
-at [Evolve Coworking](https://www.evolvework.co/)**
-
-[Hackathon Day Details](https://www.summertechforum.com/hackathon/)
-
-- **Evening** Groups go to dinner or house meals
-
-- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall (Public welcome)
-
-- **Followed by:** Games and hanging out at rental houses
 
 ***********************************
 
-Thursday
+April 17, Thursday
 --------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
@@ -123,7 +104,7 @@ Thursday
 
 ***********************************
 
-Friday
+April 18, Friday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
