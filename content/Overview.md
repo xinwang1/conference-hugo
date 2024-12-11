@@ -1,5 +1,5 @@
 ---
-title: About the workshop
+title: Overview
 type: index
 weight: 10
 ---
