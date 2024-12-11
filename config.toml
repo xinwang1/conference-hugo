@@ -13,9 +13,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	# author = "Bruce Eckel"
 	description = "A Self-Organizing Open-Spaces Unconference"
 
-	logo = "/images/stf-circle-web.jpg"
+	logo = "/images/stf-circle-web.png"
 	favicon = "images/stf-favicon-32.png"
-	banner_image = "/images/Banner.jpg"
+	banner_image = "/images/Banner.png"
 
 	permalink = "#"
 
