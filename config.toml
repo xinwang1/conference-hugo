@@ -57,11 +57,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	weight = 110
 
 
-[[menu.main]]
-	name   = "Committees"
-	url    = "Committees"
-	weight = 150
-
 
 [blackfriday]
 	smartypants	= true

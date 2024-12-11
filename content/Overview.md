@@ -30,6 +30,12 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Mingrui Jing (HKUST-GZ)
 
 ## Invited Participants
+- Shi Jin*
+- Xiaoming Sun*
+- Zhengfeng Ji*
+- Yuan Feng*
+- Shunlong Luo*
+- Jinguo Liu (HKUST-GZ)
 - Lvzhou Li (Sun Yat-Sen University)
 - Penghui Yao* (Nanjing University)
 - Yuxiang Yang* (The University of HongKong)
@@ -42,7 +48,19 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Yinan Li (Wuhan University)
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
 - Linlin Lao
-- Tongyang Li (Peking University)* 
+- Tongyang Li* (Peking University)
+- Zhengjun Xi*
+- Jialin Zhang*
+- Xin Liu*
+- Tianyu Wang*
+- Chenglong Bao*
+- Ran Guo*
+- Yulin Jiao*
+- Nana Liu*
+- Kun Yuan*
+- Qing Ling*
+- Yingzhou Li* (Fudan University)
+
 
 \* to be confirmed
 
