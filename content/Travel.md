@@ -3,65 +3,45 @@ title: Travel
 weight: 110
 ---
 
-## The Cheapest Way (With Others)
+## 地理位置
+       中心位于云南省昆明市宜良县柴石滩水库库区内国家一级公益林中；三面环山，一面向水，环境优美，风景秀丽、气候宜人；海拔为1700米，距离昆明长水国际机场约90公里，乘车时间约1.5小时。距离石林风景区25公里，距离九乡风景区17公里。
 
--   Denver is a hub for Southwest Airlines and Frontier Airlines, so you can usually
-    get an inexpensive nonstop flight.
--   Use the Slack channel to find others to share your car rental.
--   Rent a car from Denver. If you're a Costco member, their
-    [car rental service](https://www.costcotravel.com/Rental-Cars) is exceptional.
+## 专车服务
 
-## The Cheapest Way (On Your Own)
 
-1.  Fly to Denver airport on a discount airline like Southwest. Denver is a
-    Southwest hub, so you can usually get a nonstop flight. Arrive with enough
-    time to get to the bus. Before buying your airline ticket, make sure the
-    return timing for the bus works.
+中心周日全天接机、接站，周五下午、周六全天安排车辆送机、送站。其他时间需自行解决交通问题，中心可协助联系车辆，但费用需自理。
 
-1.  From baggage claim, follow the signs to the transit center. The signs will take
-    you down escalators. At the bottom of the escalators, there are machines to
-    purchase a one way $10.50 ticket which will take you to Union station. You can
-    skip the line by downloading the app from [the light rail site](http://www.rtd-denver.com/).
+由于中心外部道路尚未完善，建议参会人员尽量不要选择夜间行车。
 
-1.  Take the [Light Rail from Denver Airport to Union
-    Station](https://www.denver.org/about-denver/transportation/airport-rail/)
-    ($10.50). This is the [A Line Commuter
-    Train](https://www.flydenver.com/parking_transit/transit/a_line_commuter_train).
-    **NOTE**: Remain at Union Station -- the Gunnison bus departs from a lower
-    level from where the light rail lets off. You don't need to leave Union
-    Station.
+## 出租车网约车
+昆明长水国际机场或昆明南站，乘坐出租车网约车到柴石滩水库风景区天元数学国际研究交流中心下车。中途经过宜良县城，宜良县城至天元数学国际研究交流中心，有两条线路可供选择：
 
-1.  Take the [Bus from Union Station to Gunnison](https://ridebustang.com/gunnison-denver-schedule/)
-    ($37). This is a very comfortable bus with power outlets and WiFi (good
-    enough for email but not for streaming). It's a good idea to buy your ticket
-    online, to guarantee a spot.
+（一）宜良县城上汕昆高速，往石林方向，石林风景区下高速，走九石阿公路到达柴石滩水库风景区天元数学国际研究交流中心。这条线路，路面宽，急弯道少，路况相对较好。
 
-1.  Get off at the [Econo Lodge in Gunnison](https://www.choicehotels.com/colorado/gunnison/econo-lodge-hotels/co308).
-    This is also where you'll depart for your return trip.
+昆明长水国际机场至天元数学国际研究交流中心全程99公里，一般需要1小时30分钟；
+昆明南站至天元数学国际研究交流中心全程92公里，一般需要1小时20分钟。
 
-1.  Travel the rest of the way to Crested Butte via Alpine Express (you'll need
-    to make a reservation ahead of time). They'll take you right to where you're
-    staying in Crested Butte. The cost is $37.53 one way per adult or $68.38
-    roundtrip for most addresses. From the [Alpine Express home
-    page](https://alpine.letsride.co/), click on "Reservations." Put "Econo
-    Lodge Gunnison" in the space labeled "From Location" and it will produce the
-    detailed address. If the site gives you any problems, just
-    email them: <reservations@letsride.co> or call them: <tel:970-728-6000>.
+（二）走古柴段线路到达柴石滩水库风景区天元数学国际研究交流中心。这条线路，需要经过村镇，路面窄，急弯道多，路况相对较差。
 
-1.  For your return trip, reverse the order of the above. Note that if you buy a
-    round-trip ticket from Alpine Express the total cost is a bit cheaper.
+昆明长水国际机场至天元数学国际研究交流中心全程74公里，需要1小时25分钟；
+昆明南站至天元数学国际研究交流中心全程78公里，需要1小时35分钟。
 
-1.  When returning, try to arrange it so your light rail train arrives at the
-    airport at least 90 minutes before your flight leaves. This way, you can
-    check your baggage at a special desk at the light rail station.
+## 公共交通
+1、昆明长水国际机场乘坐地铁6号线到昆明东部客运站下车，乘坐昆明至宜良大巴车到宜良客运站下车，或昆明南站乘坐昆明高铁南客运中心至宜良大巴车到宜良客运站下车，乘坐20路公交车到北古城镇下车，乘坐5路公交车到柴石滩水库下车。下车终点站距离天元数学国际研究交流中心约4公里，联系工作人员接送。
 
-## Flying into Gunnison
+2、公共交通工具运营时间
 
--   This is often the fastest, and most expensive, option.
--   Because of weather, the Gunnison flight can be unreliable.
--   Alpine Express takes you from the Gunnison airport to Crested Butte.
--   [Airline tips](https://sites.google.com/site/javaposseroundup/airline-tips)
--   Montrose airport (about an hour further away than Gunnison) can sometimes be
-    more reliable than Gunnison. Southwest Airlines and United now serve
-    Montrose. There are services to bring you from Montrose to Crested Butte, or
-    you can rent a car.
+地铁6号线首班时间6：20，末班时间23：00，运营间隔为25分钟。
+
+昆明至宜良大巴车首班时间7：00，末班时间21：00，运营间隔为1小时。
+
+宜良20路公交车首班时间7：00，末班时间19：00，运营间隔为30分钟。
+
+宜良5路公交车首班时间8：00，末班时间18：00，运营间隔为2小时。
+
+注：宜良5路、20路，逢日期尾号3、6、9才有班车
+
+
+
+## 自驾
+   自驾可使用导航搜索“天元数学国际研究交流中心”定位，依据导航指引可到达天元数学国际研究交流中心。
