@@ -1,4 +1,4 @@
-baseurl = "https://www.qchat.online/"
+baseurl = "https://qiop2025.netlify.app/"
 languageCode = "en-us"
 title = "QIOP 2025, Kunming, April 13-18, 2025"
 theme = "hugo-material-banner"
@@ -46,8 +46,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   weight = 15
 
 [[menu.main]]
-	name   = "Schedule"
-	url    = "schedule"
+	name   = "Agenda"
+	url    = "agenda"
 	weight = 40
 
 
@@ -58,8 +58,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
 [[menu.main]]
-	name   = "Contact"
-	url    = "contact"
+	name   = "Committees"
+	url    = "Committees"
 	weight = 150
 
 
