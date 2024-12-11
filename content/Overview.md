@@ -32,9 +32,9 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 ## Invited Participants
 - Shi Jin*
 - Xiaoming Sun*
-- Zhengfeng Ji*
-- Yuan Feng*
-- Shunlong Luo*
+- Zhengfeng Ji* (Tsinghua University)
+- Yuan Feng* (Tsinghua University)
+- Shunlong Luo* (AMSS, CAS)
 - Jinguo Liu (HKUST-GZ)
 - Lvzhou Li (Sun Yat-Sen University)
 - Penghui Yao* (Nanjing University)
@@ -47,16 +47,16 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Li Gao (Wuhan University)
 - Yinan Li (Wuhan University)
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
-- Linlin Lao
+- Linlin Lao (National University of Defense Technology)
 - Tongyang Li* (Peking University)
 - Zhengjun Xi*
-- Jialin Zhang*
-- Xin Liu*
-- Tianyu Wang*
-- Chenglong Bao*
+- Jialin Zhang* 
+- Xin Liu* 
+- Tianyu Wang* 
+- Chenglong Bao* 
 - Ran Guo*
-- Yulin Jiao*
-- Nana Liu*
+- Yulin Jiao* 
+- Nana Liu* 
 - Kun Yuan*
 - Qing Ling*
 - Yingzhou Li* (Fudan University)
