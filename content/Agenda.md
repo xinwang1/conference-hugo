@@ -27,8 +27,8 @@ April 14, Monday
 
 - **Morning** [Morning Activities](/activities) + Lunch
 
-- **1:30pm** Session 1\
-Conference Overview\
+- **9:00pm** Session 1\
+-- Conference Overview\
 Introductions\
 How Open Spaces Works\
 Initial talk topics and organization\
