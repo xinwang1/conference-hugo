@@ -29,8 +29,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Hongshun Yao (HKUST-GZ)
 - Mingrui Jing (HKUST-GZ)
 
-## Participants
-
+## Invited Participants
 - Lvzhou Li (Sun Yat-Sen University)
 - Penghui Yao* (Nanjing University)
 - Yuxiang Yang* (The University of HongKong)
