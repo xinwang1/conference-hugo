@@ -22,8 +22,7 @@ Quantum Information and Optimization (QIOP) workshop focuses on the intersection
 - Linlin Lao
 - Tongyang Li* 
  
-just write markdown language 
-
+* to be confirmed
 
 
 <hr style="border: 0; border-top: 5px solid;">
