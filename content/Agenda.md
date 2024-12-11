@@ -25,24 +25,16 @@ April 14, Monday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9:00am - 12:00pm** Morning Session
+  - 9:00am-10:15am Session 1
+  - 10:15am-10:45am Break
+  - 10:45am-12:00 Session 2
 
-- **9:00pm** Session 1\
-  - Conference Overview\
-Introductions\
-How Open Spaces Works\
-Initial talk topics and organization\
-Session
+- **12:00pm-14:00pm** Lunch + Break
 
-- **4:00pm-4:30pm** Break
+- **14:00pm-15:20pm** Afternoon Session
 
-- **4:30pm-5:30pm** Session 2
-
-- **Evening** Groups go to dinner or house meals
-
-- **8pm** [Lightning Talks](https://www.summertechforum.com/lightningtalks) at the Parish Hall (Public welcome)
-
-- **Followed by:** Games and hanging out at rental houses
+- **15:30pm-17:00pm** Free Discussion
 
 ***********************************
 
@@ -51,30 +43,34 @@ April 15, Tuesday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9:00am - 12:00pm** Morning Session
+  - 9:00am-10:15am Session 1
+  - 10:15am-10:45am Break
+  - 10:45am-12:00 Session 2
 
-- **1:30pm-2:30pm** Session 3
+- **12:00pm-14:00pm** Lunch + Break
 
-- **2:30pm-3:00pm** Break
+- **14:00pm-15:20pm** Afternoon Session
 
-- **3:00pm-4:00pm** Session 4
-
-- **4:00pm-4:30pm** Break
-
-- **4:30pm-5:30pm** Session 5
-
-- **Evening** Groups go to dinner or house meals
-
-- **8pm** [Lightning Talks](https://www.summertechforum.com/lightningtalks) at the Parish Hall (Public welcome)
-
-- Form groups for Hackathon day
-
-- **Followed by:** Games and hanging out at rental houses
+- **15:30pm-17:00pm** Free Discussion
 
 ***********************************
 
 April 16, Wednesday
 ------------------------
+
+- **Breakfast** Post your plans on Slack if you want others to join you.
+
+- **9:00am - 12:00pm** Morning Session
+  - 9:00am-10:15am Session 1
+  - 10:15am-10:45am Break
+  - 10:45am-12:00 Session 2
+
+- **12:00pm-14:00pm** Lunch + Break
+
+- **14:00pm-15:20pm** Afternoon Session
+
+- **15:30pm-17:00pm** Free Discussion
 
 
 ***********************************
@@ -84,24 +80,18 @@ April 17, Thursday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9:00am - 12:00pm** Morning Session
+  - 9:00am-10:15am Session 1
+  - 10:15am-10:45am Break
+  - 10:45am-12:00 Session 2
 
-- **1:30pm-2:30pm** Session 6
+- **12:00pm-14:00pm** Lunch + Break
 
-- **2:30pm-3:00pm** Break
+- **14:00pm-15:20pm** Afternoon Session
 
-- **3:00pm-4:00pm** Session 7
+- **15:30pm-17:00pm** Free Discussion
 
-- **4:00pm-4:30pm** Break
-
-- **4:30pm-5:30pm** Session 8
-
-- **Evening** Progressive Dinner at Rental Houses
-
-- (Possibly) "Greased" lightning talks
-
-- **Followed by:** Games and hanging out at rental houses
-
+  
 ***********************************
 
 April 18, Friday
@@ -109,19 +99,16 @@ April 18, Friday
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9:00am - 12:00pm** Morning Session
+  - 9:00am-10:15am Session 1
+  - 10:15am-10:45am Break
+  - 10:45am-12:00 Session 2
 
-- **1:30pm-2:30pm** Session 9
+- **12:00pm-14:00pm** Lunch + Break
 
-- **2:30pm-3:00pm** Break
+- **14:00pm-15:20pm** Afternoon Session
 
-- **3:00pm-4:00pm** Session 10
-
-- **4:00pm-4:30pm** Break
-
-- **4:30pm-5:30pm** Closing Session
-
-- Evening event TBA
+- **15:30pm-17:00pm** Free Discussion
 
 ***********************************
 
