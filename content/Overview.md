@@ -1,16 +1,11 @@
 ---
-title: Overview
+title: About the workshop
 type: index
 weight: 10
 ---
 
 
-## XXX
-TBA
-
-XX
-- x
-- x
+QIOP focuses on the intersection of quantum information and optimization theory, two rapidly advancing fields with transformative potential. This workshop aims to foster interdisciplinary collaboration by bringing together experts to explore cutting-edge research on topics such as optimization in quantum information theory, quantum error correction, quantum circuit design, quantum algorithms for optimization, and optimization of quantum systems. By bridging these fields, the workshop seeks to advance theoretical foundations, develop innovative algorithms, and address large-scale real-world problems.
 
 ## XXX
 TBA
