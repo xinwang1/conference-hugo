@@ -4,15 +4,20 @@ type: index
 weight: 10
 ---
 
-Quantum Information and Optimization (QIOP) workshop (量子信息与优化研讨会) focuses on the intersection of quantum information and optimization theory, two rapidly advancing fields with transformative potential. 
-
-This workshop aims to foster interdisciplinary collaboration by bringing together experts to explore cutting-edge research on topics such as optimization in quantum information theory, quantum error correction, quantum circuit design, quantum algorithms for optimization, and optimization of quantum systems. By bridging these fields, the workshop seeks to advance theoretical foundations, develop innovative algorithms, and address large-scale real-world problems. 
+Quantum Information and Optimization (QIOP) workshop (量子信息与优化研讨会) focuses on the intersection of quantum information and optimization theory, two rapidly advancing fields with transformative potential. This workshop aims to foster interdisciplinary collaboration by bringing together experts to explore cutting-edge research on topics such as 
+- optimization in quantum information theory
+- optimization in quantum machine learning
+- quantum circuit design and optimization 
+- quantum algorithms for optimization problems
+- optimization of quantum systems
+- hybrid quantum-classical optimization methods. 
+By bridging these fields, the workshop seeks to advance theoretical foundations, develop innovative algorithms, and address large-scale real-world problems. 
 
 
 
 ## Location
 
-The workshop will take place at TIANYUAN Center ([天元数学国际交流中心](http://tianyuan.amss.ac.cn/)), Yiliang, Kunming, Yunnan.
+The workshop will take place at TIANYUAN Center ([天元数学国际交流中心](http://tianyuan.amss.ac.cn/)), Yiliang (宜良), Kunming, Yunnan.
 
 ## Dates
 
@@ -30,13 +35,14 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Mingrui Jing (HKUST-GZ)
 
 ## Invited Participants
-- Shi Jin*
-- Xiaoming Sun*
+- Shi Jin* (Shanghai Jiao Tong University)
+- Xiaoming Sun* (CAS)
 - Zhengfeng Ji* (Tsinghua University)
 - Yuan Feng* (Tsinghua University)
 - Shunlong Luo* (AMSS, CAS)
 - Jinguo Liu (HKUST-GZ)
 - Lvzhou Li (Sun Yat-Sen University)
+- Shengyu Zhang (Tencent)
 - Penghui Yao* (Nanjing University)
 - Yuxiang Yang* (The University of HongKong)
 - Huangjun Zhu* (Fudan University)
@@ -49,17 +55,25 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
 - Linlin Lao (National University of Defense Technology)
 - Tongyang Li* (Peking University)
-- Zhengjun Xi*
-- Jialin Zhang* 
-- Xin Liu* 
-- Tianyu Wang* 
-- Chenglong Bao* 
-- Ran Guo*
-- Yulin Jiao* 
-- Nana Liu* 
-- Kun Yuan*
-- Qing Ling*
+- Yu-Ao Chen (HKUST-GZ)
+- Zhengjun Xi* 
+- Jialin Zhang* (CAS)
+- Zaiwen Wen (Peking University)
+- Xin Liu* (AMSS, CAS)
+- Tianyu Wang* (Fudan University)
+- Chenglong Bao* (Tsinghua University)
+- Ran Gu* (Nankai University)
+- Yulin Jiao* (Wuhan University)
+- Nana Liu* (Shanghai Jiao Tong University)
+- Kun Yuan* (Peking University)
+- Qing Ling* (Sun Yat-Sen University)
+- Wei Wang* (AMSS, CAS)
+- Jie Wang* (AMSS, CAS)
+- Zhiqiang Xu* (AMSS, CAS)
 - Yingzhou Li* (Fudan University)
+- Xia Liu (HKUST-GZ)
+- Yin Mo (HKUST-GZ)
+- Zetong Li (Southeast University and HKUST-GZ)
 
 
 \* to be confirmed
