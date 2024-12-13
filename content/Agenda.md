@@ -105,11 +105,8 @@ April 18, Friday
 
 ***********************************
 
-Saturday Morning Potluck Breakfast at Bruce's house
+More
 ---------------------------------------------------
 
-- If you're staying in a house, bring your extra food.
+- TBA
 
-- If you don't have extra food, don't buy more. We always have lots.
-
-- Airport shuttles & group drivers can pick you up there (tell them 107 White Rock).
