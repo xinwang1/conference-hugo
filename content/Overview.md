@@ -22,7 +22,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 ## Dates
 
-**Workshop: 13 – 18 April 2025**
+**Workshop: 13 – 19 April 2025**
 
 
 
