@@ -41,6 +41,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Zhengfeng Ji* (Tsinghua University)
 - Yuan Feng* (Tsinghua University)
 - Shunlong Luo* (AMSS, CAS)
+- Yanfei Wang*
 - Jinguo Liu (HKUST-GZ)
 - Lvzhou Li (Sun Yat-Sen University)
 - Shengyu Zhang* (Tencent)
