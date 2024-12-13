@@ -39,8 +39,11 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Shi Jin* (Shanghai Jiao Tong University)
 - Xiaoming Sun* (ICT, CAS)
 - Zhengfeng Ji* (Tsinghua University)
+- Lin Lin*
 - Yuan Feng* (Tsinghua University)
 - Shunlong Luo* (AMSS, CAS)
+- Dong An (Peking University)
+- Tongyang Li* (Peking University)
 - Yanfei Wang*
 - Jinguo Liu (HKUST-GZ)
 - Lvzhou Li (Sun Yat-Sen University)
@@ -48,7 +51,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Penghui Yao* (Nanjing University)
 - Yuxiang Yang* (The University of Hong Kong)
 - Huangjun Zhu* (Fudan University)
-- Dong An (Peking University)
 - Changpeng Shao (AMSS, CAS)
 - Guofeng Zhang* (The Hong Kong Polytechnic University)
 - Ke Li (Harbin Institute of Technology)
@@ -56,7 +58,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Yinan Li (Wuhan University)
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
 - Linlin Lao (National University of Defense Technology)
-- Tongyang Li* (Peking University)
 - Yu-Ao Chen (HKUST-GZ)
 - Zhengjun Xi* 
 - Jialin Zhang* (ICT, CAS)
