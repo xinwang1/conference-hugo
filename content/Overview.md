@@ -58,7 +58,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Tongyang Li* (Peking University)
 - Yu-Ao Chen (HKUST-GZ)
 - Zhengjun Xi* 
-- Jialin Zhang* (CAS)
+- Jialin Zhang* (ICT, CAS)
 - Zaiwen Wen (Peking University)
 - Xin Liu* (AMSS, CAS)
 - Tianyu Wang* (Fudan University)
