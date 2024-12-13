@@ -75,7 +75,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Xia Liu (HKUST-GZ)
 - Yin Mo (HKUST-GZ)
 - Zetong Li (Southeast University and HKUST-GZ)
-
+- **More will come, to be updated**
 
 \* to be confirmed
 
