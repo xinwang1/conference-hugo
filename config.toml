@@ -1,6 +1,6 @@
 baseurl = "https://www.qiop.site/"
 languageCode = "en-us"
-title = "QIOP 2025, Kunming, April 13-18, 2025"
+title = "QIOP 2025, Kunming, April 13-19, 2025"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
