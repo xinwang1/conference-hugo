@@ -33,22 +33,21 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Bin Gao (Co-chair, AMSS, CAS)
 - Chengkai Zhu (HKUST-GZ)
 - Hongshun Yao (HKUST-GZ)
-- Mingrui Jing (HKUST-GZ)
+
 
 ## Invited Participants
 - Xiaoshan Gao* (AMSS, CAS)
 - Shunlong Luo* (AMSS, CAS)
 - Xiaoming Sun* (ICT, CAS)
 - Zhiqiang Xu (AMSS, CAS)
-- Zhengfeng Ji* (Tsinghua University)
 - Jingsong Huang (CUHK-Shenzhen)
 - Yuan Feng* (Tsinghua University)
 - Shi Jin* (Shanghai Jiao Tong University)
+- Yadong Wu (Shanghai Jiao Tong University)
 - Lin Lin*
-- Zhengwei Liu*
 - Zhaohui Wei*
 - Ziwen Liu*
-- Jinpeng Liu*
+- Jinpeng Liu (Tsinghua University)
 - Lvzhou Li (Sun Yat-Sen University)
 - Shengyu Zhang* (Tencent)
 - Penghui Yao (Nanjing University)
@@ -63,13 +62,13 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Ke Li (Harbin Institute of Technology)
 - Li Gao (Wuhan University)
 - Yinan Li (Wuhan University)
+- Tianyu Wang (Fudan University)
 - Guofeng Zhang* (The Hong Kong Polytechnic University)
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
 - Lingling Lao
 - Tongyang Li* (Peking University)
 - Zhengjun Xi*
 - Jialin Zhang* (ICT, CAS)
-- Tianyu Wang* (Fudan University)
 - Chenglong Bao*
 - Wei Wang* (AMSS, CAS)
 - Jie Wang* (AMSS, CAS)
@@ -80,6 +79,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Xia Liu (HKUST-GZ)
 - Yin Mo (HKUST-GZ)
 - Zetong Li (Southeast University and HKUST-GZ)
+- Minbo Gao (Tsinghua University)
 - **More will come, to be updated**
 
 \* to be confirmed
