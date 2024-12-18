@@ -41,6 +41,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Xiaoming Sun* (ICT, CAS)
 - Zhiqiang Xu (AMSS, CAS)
 - Zhengfeng Ji* (Tsinghua University)
+- Jinsong Huang (CUHK-Shenzhen)
 - Yuan Feng* (Tsinghua University)
 - Shi Jin* (Shanghai Jiao Tong University)
 - Lin Lin*
