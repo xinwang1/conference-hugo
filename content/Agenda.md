@@ -8,27 +8,20 @@ weight: 40
 April 13, Sunday
 -------------
 
-Welcome Potluck Barbeque at Bruce's House (107 WhiteRock). Bring something to
-grill, cook, or share. There will be food, so if you're just getting into town
-and don't have time, or you're hopeless in the kitchen, just bring your
-favorite beverage.
+Reception and checkin
 
-Go to the corner of First and WhiteRock, and you'll see a building of four
-townhomes with solar panels on the roof. My unit is the furthest away from
-the corner, and you'll see a little white cargo trailer in front. I usually
-have colorful lights on, as well.
 
 ***********************************
 
 April 14, Monday
 ------
 
-- **Breakfast** Post your plans on Slack if you want others to join you.
+- **Breakfast**
 
 - **9:00am - 12:00pm** Morning Session
-  - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Tea Break
-  - 10:45am-12:00 Session 2
+  - 9:00am-10:20am Session 1
+  - 10:20am-10:40am Tea Break
+  - 10:40am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
 
@@ -41,12 +34,12 @@ April 14, Monday
 April 15, Tuesday
 -------
 
-- **Breakfast** Post your plans on Slack if you want others to join you.
+- **Breakfast**
 
 - **9:00am - 12:00pm** Morning Session
-  - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Tea Break
-  - 10:45am-12:00 Session 2
+  - 9:00am-10:20am Session 1
+  - 10:20am-10:40am Tea Break
+  - 10:40am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
 
@@ -59,12 +52,12 @@ April 15, Tuesday
 April 16, Wednesday
 ------------------------
 
-- **Breakfast** Post your plans on Slack if you want others to join you.
+- **Breakfast**
 
 - **9:00am - 12:00pm** Morning Session
-  - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Tea Break
-  - 10:45am-12:00 Session 2
+  - 9:00am-10:20am Session 1
+  - 10:20am-10:40am Tea Break
+  - 10:40am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
 
@@ -78,12 +71,12 @@ April 16, Wednesday
 April 17, Thursday
 --------
 
-- **Breakfast** Post your plans on Slack if you want others to join you.
+- **Breakfast**
 
 - **9:00am - 12:00pm** Morning Session
-  - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Tea Break
-  - 10:45am-12:00 Session 2
+  - 9:00am-10:20am Session 1
+  - 10:20am-10:40am Tea Break
+  - 10:40am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
 
@@ -97,12 +90,12 @@ April 17, Thursday
 April 18, Friday
 ------
 
-- **Breakfast** Post your plans on Slack if you want others to join you.
+- **Breakfast**
 
 - **9:00am - 12:00pm** Morning Session
-  - 9:00am-10:15am Session 1
-  - 10:15am-10:45am Tea Break
-  - 10:45am-12:00 Session 2
+  - 9:00am-10:20am Session 1
+  - 10:20am-10:40am Tea Break
+  - 10:40am-12:00 Session 2
 
 - **12:00pm-14:00pm** Lunch + Break
 
@@ -112,11 +105,8 @@ April 18, Friday
 
 ***********************************
 
-Saturday Morning Potluck Breakfast at Bruce's house
+More
 ---------------------------------------------------
 
-- If you're staying in a house, bring your extra food.
+- TBA
 
-- If you don't have extra food, don't buy more. We always have lots.
-
-- Airport shuttles & group drivers can pick you up there (tell them 107 White Rock).
