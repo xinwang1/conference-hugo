@@ -36,45 +36,46 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Mingrui Jing (HKUST-GZ)
 
 ## Invited Participants
-- Xiaoshan Gao*
-- Shunlong Luo*
-- Xiaoming Sun*
-- Zhengfeng Ji*
-- Yuan Feng*
-- Shi Jin* (Shanghai Jiao Tong University)
-- Xiaoming Sun* (ICT, CAS)
-- Zhengfeng Ji* (Tsinghua University)
-- Lin Lin*
-- Yuan Feng* (Tsinghua University)
+- Xiaoshan Gao* (AMSS, CAS)
 - Shunlong Luo* (AMSS, CAS)
+- Xiaoming Sun* (ICT, CAS)
+- Zhiqiang Xu (AMSS, CAS)
+- Zhengfeng Ji* (Tsinghua University)
+- Yuan Feng* (Tsinghua University)
+- Shi Jin* (Shanghai Jiao Tong University)
+- Lin Lin*
+- Zhengwei Liu*
+- Zhaohui Wei*
+- Ziwen Liu*
+- Jinpeng Liu*
+- Lvzhou Li (Sun Yat-Sen University)
+- Shengyu Zhang* (Tencent)
+- Penghui Yao (Nanjing University)
+- Yuxiang Yang (The University of Hong Kong)
+- Yingzhou Li (Fudan University)
 - Dong An (Peking University)
 - Tongyang Li* (Peking University)
 - Yanfei Wang*
 - Jinguo Liu (HKUST-GZ)
-- Lvzhou Li (Sun Yat-Sen University)
-- Shengyu Zhang* (Tencent)
-- Penghui Yao* (Nanjing University)
-- Yuxiang Yang* (The University of Hong Kong)
 - Huangjun Zhu* (Fudan University)
 - Changpeng Shao (AMSS, CAS)
-- Guofeng Zhang* (The Hong Kong Polytechnic University)
 - Ke Li (Harbin Institute of Technology)
 - Li Gao (Wuhan University)
 - Yinan Li (Wuhan University)
+- Guofeng Zhang* (The Hong Kong Polytechnic University)
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
 - Lingling Lao
 - Tongyang Li* (Peking University)
 - Zhengjun Xi*
-- Jialin Zhang*
-- Xin Liu*
-- Tianyu Wang*
+- Jialin Zhang* (ICT, CAS)
+- Tianyu Wang* (Fudan University)
 - Chenglong Bao*
-- Ran Guo*
+- Wei Wang* (AMSS, CAS)
+- Jie Wang* (AMSS, CAS)
 - Yulin Jiao*
-- Nana Liu*
-- Kun Yuan*
-- Qing Ling*
-- Yingzhou Li* (Fudan University)
+- Nana Liu* 
+- Kun Yuan* (Peking University)
+- Qing Ling*  (Sun Yat-Sen University)
 - Xia Liu (HKUST-GZ)
 - Yin Mo (HKUST-GZ)
 - Zetong Li (Southeast University and HKUST-GZ)
