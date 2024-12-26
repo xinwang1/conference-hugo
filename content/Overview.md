@@ -46,6 +46,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Jianfeng Cai* 
 - Lei Wang*
 - Pan Zhang*
+- Runyao Duan*
 - Ying Li*
 - Ziwen Liu*
 - Dong Liu*
@@ -54,7 +55,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Jinpeng Liu (Tsinghua University)
 - Lvzhou Li (Sun Yat-Sen University)
 - Shengyu Zhang* (Tencent)
-- Juntao You
+- Juntao You*
 - Penghui Yao (Nanjing University)
 - Yuxiang Yang (The University of Hong Kong)
 - Yingzhou Li (Fudan University)
