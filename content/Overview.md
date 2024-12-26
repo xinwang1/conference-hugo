@@ -8,7 +8,7 @@ Quantum Information and Optimization (QIOP) workshop (量子信息与优化研�
 This workshop aims to foster interdisciplinary collaboration by bringing together experts to explore cutting-edge research on topics such as 
 - optimization in quantum information theory
 - optimization in quantum machine learning
-- quantum circuit design and optimization 
+- quantum circuit design, optimization, error correction 
 - quantum algorithms for optimization problems
 - optimization of quantum systems
 - hybrid quantum-classical optimization methods. 
