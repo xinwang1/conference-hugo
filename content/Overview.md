@@ -36,55 +36,37 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 
 ## Invited Participants
-- Xiaoshan Gao* (AMSS, CAS)
 - Xiaoming Sun (ICT, CAS)
 - Jingsong Huang (CUHK-Shenzhen)
 - Zhiqiang Xu (AMSS, CAS)
-- Shi Jin* (Shanghai Jiao Tong University)
 - Fei Gao (BUPT)
-- Lin Lin*
-- Jianfeng Cai* 
-- Lei Wang*
-- Pan Zhang*
-- Runyao Duan*
-- Ying Li*
-- Ziwen Liu*
-- Dong Liu*
-- Yingfei Gu*
 - Dong An (Peking University)
 - Jinpeng Liu (Tsinghua University)
 - Lvzhou Li (Sun Yat-Sen University)
-- Shengyu Zhang* (Tencent)
-- Juntao You*
+- Juntao You
 - Penghui Yao (Nanjing University)
 - Yuxiang Yang (The University of Hong Kong)
 - Yingzhou Li (Fudan University)
 - Yadong Wu (Shanghai Jiao Tong University)
 - Nana Liu (Shanghai Jiao Tong University)
-- Tongyang Li* (Peking University)
-- Yanfei Wang*
+- Yanfei Wang
 - Bujiao Wu (Sustech)
 - Jinguo Liu (HKUST-GZ)
-- Huangjun Zhu* (Fudan University)
+- Huangjun Zhu (Fudan University)
 - Changpeng Shao (AMSS, CAS)
-- Ke Li (Harbin Institute of Technology)
 - Li Gao (Wuhan University)
 - Yinan Li (Wuhan University)
 - Tianyu Wang (Fudan University)
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
 - Lingling Lao
 - Tongyang Li* (Peking University)
-- Zhengjun Xi*
-- Jialin Zhang* (ICT, CAS)
-- Chenglong Bao*
+- Zhengjun Xi
 - Wei Wang (AMSS, CAS)
 - Jie Wang (AMSS, CAS)
-- Yulin Jiao* 
-- Kun Yuan* (Peking University)
-- Qing Ling*  (Sun Yat-Sen University)
+- Yulin Jiao
+- Kun Yuan (Peking University)
 - Xia Liu (HKUST-GZ)
 - Yin Mo (HKUST-GZ)
-- Zetong Li (Southeast University and HKUST-GZ)
 - Minbo Gao (Tsinghua University)
 - **More will come, to be updated**
 
