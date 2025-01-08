@@ -61,10 +61,12 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Kun Fang  (Chinese University of Hong Kong - Shenzhen)
 - Lingling Lao
 - Tongyang Li* (Peking University)
-- Zhengjun Xi
+- Zhengjun Xi (Shanxi Normal University)
 - Wei Wang (AMSS, CAS)
 - Jie Wang (AMSS, CAS)
 - Yulin Jiao
+- Kun Wang
+- Wei Xie
 - Kun Yuan (Peking University)
 - Xia Liu (HKUST-GZ)
 - Yin Mo (HKUST-GZ)
