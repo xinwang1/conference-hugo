@@ -40,6 +40,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Jingsong Huang (CUHK-Shenzhen)
 - Zhiqiang Xu (AMSS, CAS)
 - Fei Gao (BUPT)
+- Ke Li* (HIT)
 - Dong An (Peking University)
 - Jinpeng Liu (Tsinghua University)
 - Lvzhou Li (Sun Yat-Sen University)
