@@ -36,41 +36,52 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 
 ## Invited Participants
-- Xiaoming Sun (ICT, CAS)
-- Jingsong Huang (CUHK-Shenzhen)
-- Zhiqiang Xu (AMSS, CAS)
-- Fei Gao (BUPT)
-- Ke Li* (HIT)
 - Dong An (Peking University)
-- Jinpeng Liu (Tsinghua University)
-- Lvzhou Li (Sun Yat-Sen University)
-- Juntao You
-- Penghui Yao (Nanjing University)
-- Yuxiang Yang (The University of Hong Kong)
-- Yingzhou Li (Fudan University)
-- Yadong Wu (Shanghai Jiao Tong University)
-- Nana Liu (Shanghai Jiao Tong University)
-- Yanfei Wang
-- Bujiao Wu (Sustech)
-- Jinguo Liu (HKUST-GZ)
-- Huangjun Zhu (Fudan University)
-- Changpeng Shao (AMSS, CAS)
+- Yu-Ao Chen (HKUST-GZ)
+- Kun Fang (Chinese University of Hong Kong - Shenzhen)
+- Fei Gao (BUPT)
 - Li Gao (Wuhan University)
-- Yinan Li (Wuhan University)
-- Tianyu Wang (Fudan University)
-- Kun Fang  (Chinese University of Hong Kong - Shenzhen)
-- Lingling Lao
-- Tongyang Li* (Peking University)
-- Zhengjun Xi (Shanxi Normal University)
-- Wei Wang (AMSS, CAS)
-- Jie Wang (AMSS, CAS)
-- Yulin Jiao
-- Kun Wang
+- Minbo Gao (Tsinghua University)
+- Naixu Guo (NUS)
+- Ruchi Guo (Sichuan University)
+- Jing-Song Huang (Chinese University of Hong Kong - Shenzhen)
+- Minyi Huang (Zhejiang Sci-Tech University)
+- Yuling Jiao
 - Wei Xie
-- Kun Yuan (Peking University)
+- Nana Liu (Shanghai Jiao Tong University)
+- Zhijian Lai (Peking University)
+- Linlin Lao
+- Guangxi Li
+- Ke Li* (HIT)
+- Lvzhou Li (Sun Yat-Sen University)
+- Yinan Li (Wuhan University)
+- Yingzhou Li (Fudan University)
+- Zetong Li
+- Zexian Li (Poly U)
+- Jinguo Liu (HKUST-GZ)
+- Jinpeng Liu (Tsinghua University)
 - Xia Liu (HKUST-GZ)
 - Yin Mo (HKUST-GZ)
-- Minbo Gao (Tsinghua University)
+- Changpeng Shao (AMSS, CAS)
+- Xiaoming Sun (ICT, CAS)
+- Jie Wang (AMSS, CAS)
+- Kun Wang
+- Tianyu Wang (Fudan University)
+- Wei Wang (AMSS, CAS)
+- Xiaoting Wang
+- Yanfei Wang
+- Bujiao Wu (Sustech)
+- Yadong Wu (Shanghai Jiao Tong University)
+- Zhengjun Xi (Shanxi Normal University)
+- Zhiqiang Xu (AMSS, CAS)
+- Yuxiang Yang (The University of Hong Kong)
+- Penghui Yao (Nanjing University)
+- Juntao You
+- Zhan Yu
+- Xuanqiang Zhao
+- Shenggen Zheng
+- Huangjun Zhu (Fudan University)
+
 - **More will come, to be updated**
 
 \* to be confirmed
