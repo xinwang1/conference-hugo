@@ -47,7 +47,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Jing-Song Huang (Chinese University of Hong Kong - Shenzhen)
 - Minyi Huang (Zhejiang Sci-Tech University)
 - Yuling Jiao
-- Wei Xie
+- Shi Jin* (Shanghai Jiao Tong University)
 - Nana Liu (Shanghai Jiao Tong University)
 - Zhijian Lai (Peking University)
 - Linlin Lao
@@ -68,19 +68,19 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Kun Wang
 - Tianyu Wang (Fudan University)
 - Wei Wang (AMSS, CAS)
-- Xiaoting Wang
 - Yanfei Wang
 - Bujiao Wu (Sustech)
 - Yadong Wu (Shanghai Jiao Tong University)
 - Zhengjun Xi (Shanxi Normal University)
 - Zhiqiang Xu (AMSS, CAS)
+- Wei Xie
 - Yuxiang Yang (The University of Hong Kong)
 - Penghui Yao (Nanjing University)
 - Juntao You
 - Zhan Yu
 - Xuanqiang Zhao
-- Shenggen Zheng
 - Huangjun Zhu (Fudan University)
+- Shengyu Zhang (Tencent)
 
 - **More will come, to be updated**
 
