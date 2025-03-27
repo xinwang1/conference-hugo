@@ -39,7 +39,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Dong An (Peking University)
 - Yu-Ao Chen (HKUST-GZ)
 - Kun Fang (Chinese University of Hong Kong - Shenzhen)
-- Fei Gao (BUPT)
 - Li Gao (Wuhan University)
 - Minbo Gao (Tsinghua University)
 - Naixu Guo (NUS)
@@ -47,8 +46,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Jing-Song Huang (Chinese University of Hong Kong - Shenzhen)
 - Minyi Huang (Zhejiang Sci-Tech University)
 - Yuling Jiao
-- Shi Jin* (Shanghai Jiao Tong University)
-- Nana Liu (Shanghai Jiao Tong University)
+- Shi Jin (Shanghai Jiao Tong University)
 - Zhijian Lai (Peking University)
 - Linlin Lao
 - Guangxi Li
@@ -68,7 +66,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Kun Wang
 - Tianyu Wang (Fudan University)
 - Wei Wang (AMSS, CAS)
-- Yanfei Wang
 - Bujiao Wu (Sustech)
 - Yadong Wu (Shanghai Jiao Tong University)
 - Zhengjun Xi (Shanxi Normal University)
