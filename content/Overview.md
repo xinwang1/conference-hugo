@@ -57,7 +57,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Zetong Li
 - Zexian Li (Poly U)
 - Jinguo Liu (HKUST-GZ)
-- Jinpeng Liu (Tsinghua University)
 - Xia Liu (HKUST-GZ)
 - Yin Mo (HKUST-GZ)
 - Changpeng Shao (AMSS, CAS)
@@ -71,6 +70,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Zhengjun Xi (Shanxi Normal University)
 - Zhiqiang Xu (AMSS, CAS)
 - Wei Xie
+- Haidong Yuan (Chinese University of Hong Kong)
 - Yuxiang Yang (The University of Hong Kong)
 - Penghui Yao (Nanjing University)
 - Juntao You
