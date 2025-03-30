@@ -96,9 +96,9 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 - Zhengjun Xi (Shanxi Normal University)
 
-- Zhiqiang Xu (AMSS, CAS)
+- Zhiqiang Xu* (AMSS, CAS)
 
-- Wei Xie
+- Wei Xie (USTC)
 
 - Haidong Yuan (Chinese University of Hong Kong)
 
@@ -108,7 +108,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 - Juntao You
 
-- Zhan Yu
+- Zhan Yu (NUS)
 
 - Xuanqiang Zhao
 
