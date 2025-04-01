@@ -112,7 +112,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 - Huangjun Zhu (Fudan University)
 
-- Shengyu Zhang (Tencent)
 
 - **More will come, to be updated**
 
