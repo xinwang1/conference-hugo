@@ -50,8 +50,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 - Jing-Song Huang (Chinese University of Hong Kong - Shenzhen)
 
-- Minyi Huang (Zhejiang Sci-Tech University)
-
 - Yuling Jiao (Wuhan University)
 
 - Shi Jin (Shanghai Jiao Tong University)
@@ -83,8 +81,6 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Xiaoming Sun (ICT, CAS)
 
 - Jie Wang (AMSS, CAS)
-
-- Kun Wang
 
 - Tianyu Wang (Fudan University)
 
