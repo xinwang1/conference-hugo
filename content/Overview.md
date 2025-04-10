@@ -16,6 +16,8 @@ This workshop aims to foster interdisciplinary collaboration by bringing togethe
 
 By providing a platform for experts to share their knowledge and insights, the workshop seeks to advance the theoretical foundations of quantum information, address significant challenges, and develop innovative algorithms that leverage the power of both fields.
 
+The full program booklet is available at [here](documents/QIOP-agenda.pdf).
+
 ## Location
 
 The workshop will take place at TIANYUAN Center ([天元数学国际交流中心](http://tianyuan.amss.ac.cn/)), Yiliang (宜良), Kunming, Yunnan.

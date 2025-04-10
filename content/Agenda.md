@@ -5,6 +5,8 @@ weight: 40
 
 ***********************************
 
+The full program booklet is available at [here](documents/QIOP-agenda.pdf).
+
 ![Agenda](/images/agenda.png "agenda")
 
 <!-- April 13, Sunday
