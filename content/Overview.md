@@ -64,7 +64,7 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 - Yingzhou Li (Fudan University)
 
-- Zetong Li
+- Zetong Li (Nanjing University)
 
 - Zexian Li (Poly U)
 
