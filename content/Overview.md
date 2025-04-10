@@ -38,6 +38,8 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 - Dong An (Peking University)
 
+- Ge Bai (HKUST-GZ)
+
 - Yu-Ao Chen (HKUST-GZ)
 
 - Kun Fang (Chinese University of Hong Kong - Shenzhen)
@@ -72,7 +74,13 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 
 - Xia Liu (HKUST-GZ)
 
+- Chuwen Ma (Shanghai Jiao Tong University)
+
 - Yin Mo (HKUST-GZ)
+
+- Fengning Ou (Nanjing University)
+
+- Renfeng Peng (AMSS, CAS)
 
 - Changpeng Shao (AMSS, CAS)
 
@@ -91,6 +99,8 @@ The workshop will take place at TIANYUAN Center ([天元数学国际交流中心
 - Haidong Yuan (Chinese University of Hong Kong)
 
 - Yuxiang Yang (The University of Hong Kong)
+
+- Yan Yang (AMSS, CAS)
 
 - Penghui Yao (Nanjing University)
 
