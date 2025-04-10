@@ -5,12 +5,17 @@ weight: 40
 
 ***********************************
 
-April 13, Sunday
+![Agenda](/images/agenda.png "agenda")
+
+<!-- April 13, Sunday
 -------------
 
-Reception and checkin
+Reception and checkin -->
 
 
+
+
+<!-- 
 ***********************************
 
 April 14, Monday
@@ -109,4 +114,4 @@ More
 ---------------------------------------------------
 
 - TBA
-
+ -->
